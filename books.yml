@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: Mastery
+  author: Robert Greene
+  category: :self_help
+- !ruby/object:Book
+  title: The Alabaster Girl
+  author: Zan Perrion
+  category: :relationships
+- !ruby/object:Book
+  title: Conversations With God
+  author: Neale Donald Walsch
+  category: :spirituality
+- !ruby/object:Book
+  title: The Pragmatic Programmer
+  author: Andrew Hunt
+  category: :development
+- !ruby/object:Book
+  title: Way of the Peaceful Warrior
+  author: Dan Millman
+  category: :spirituality
